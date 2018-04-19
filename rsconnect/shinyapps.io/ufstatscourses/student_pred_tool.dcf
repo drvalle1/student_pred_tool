@@ -1,0 +1,10 @@
+name: student_pred_tool
+title:
+username:
+account: ufstatscourses
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 311047
+bundleId: 1293406
+url: https://ufstatscourses.shinyapps.io/student_pred_tool/
+when: 1522326586.30844

@@ -1,0 +1,10 @@
+name: student_pred_tool
+title:
+username:
+account: denisvalle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 311048
+bundleId: 1304485
+url: https://denisvalle.shinyapps.io/student_pred_tool/
+when: 1522952453.57208
